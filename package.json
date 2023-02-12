@@ -1,5 +1,5 @@
 {
-  "name": "cli-init",
+  "name": "@0bdx/cli-init",
   "version": "0.0.1",
   "description": "Command line utility for initialising 0bdx apps, libraries and websites.",
   "type": "module",
